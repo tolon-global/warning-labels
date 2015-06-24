@@ -1,4 +1,4 @@
-[P.001 - Manual](../pict/P.001.svg)
+[P.001](../pict/P.001.svg)
 
 # Read the manual!
 ### WARNING
