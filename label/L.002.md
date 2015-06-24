@@ -4,7 +4,8 @@
 
 ### Kullanım
 
-Her markadan TD20 kurutucular
+* TTD20
+* JTD20
 
 ### Referans
 
