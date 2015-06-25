@@ -1,4 +1,4 @@
-# L.003
+# L.092
 
 ## Washex kurutma makineleri için genel uyarı etiketi
 
@@ -10,4 +10,4 @@
 
 ### Referans
 
-[L.001](./L.001.md) ile aynı, tek fark, koyu zemin.
+[L.009](./L.009.md) ile aynı, tek fark, koyu zemin.

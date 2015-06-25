@@ -1,4 +1,4 @@
-# L.004
+# L.093
 
 ## WTD20 kurutma makineleri için genel uyarı etiketi
 
@@ -8,7 +8,7 @@
 
 ### Referans
 
-[L.001](./L.001.md) ile aynı.
+[L.009](./L.009.md) ile aynı.
 
 #### Farklar
 
