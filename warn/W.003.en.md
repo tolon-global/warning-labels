@@ -1,4 +1,4 @@
-[P.003](../pict/P.003.svg)
+[Pp.002](../pict/Pp.002.svg)
 
 ### IMPORTANT
 
