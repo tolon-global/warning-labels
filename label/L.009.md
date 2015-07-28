@@ -19,19 +19,21 @@
 
 ### Konum
 
-Ön taraf, sol kapağın üst kenarı. 
+Ön taraf, sol kapağın üst kenarı.
 
 ### Kriterler
 
-* Maksimum genişlik 240mm. 
-* TD makinelerde açık zemin. 
+* Maksimum genişlik 240mm.
+* TD makinelerde açık zemin.
 * WE-XL makinelerde metalik zemin.
 
 ### İçerik
 
-* [W.001](../warn/W.001.tr.md)
-* [W.002](../warn/W.002.tr.md)
-* [W.003](../warn/W.003.tr.md)
+| TR                              | EN                              |
+| :------------------------------ | :------------------------------ |
+| [W.001.tr](../warn/W.001.tr.md) | [W.001.en](../warn/W.001.en.md) |
+| [W.002.tr](../warn/W.002.tr.md) | [W.002.en](../warn/W.002.en.md) |
+| [W.003.tr](../warn/W.003.tr.md) | [W.003.en](../warn/W.003.en.md) |
 
 ### Türevleri
 
