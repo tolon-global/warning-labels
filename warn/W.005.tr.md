@@ -4,7 +4,7 @@
 
 # Yüksek voltaj
 
-#### Elektrik bağlı iken bu kapağı **açmayın**
+Elektrik bağlı iken bu kapağı **açmayın**
 
 Bakım sırasında elektrik enerjisinin kapalı olduğundan emin olun
 

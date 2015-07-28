@@ -4,7 +4,7 @@
 
 # High voltage
 
-#### **Do not open** this cover while powered
+**Do not open** this cover while powered
 
 Ensure power is disconnected before servicing
 
