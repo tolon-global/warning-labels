@@ -1,4 +1,4 @@
-[P.002](../pict/P.002.svg)
+[Pp.003](../pict/Pp.003.svg)
 
 # Risk of injury!
 ### CAUTION
