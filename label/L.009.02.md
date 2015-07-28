@@ -1,4 +1,4 @@
-# L.092
+# L.009.02
 
 ## Washex kurutma makineleri için genel uyarı etiketi
 
