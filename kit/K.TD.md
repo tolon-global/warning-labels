@@ -18,15 +18,14 @@
 
 ### İçerik
 
-* [L.009](../label/L.0.md)
-* [L.012](../label/L.0.md)
-* [L.012](../label/L.0.md)
-* [L.014](../label/L.0.md)
-* [L.015](../label/L.0.md)
-* [L.016](../label/L.0.md)
-* [L.017](../label/L.0.md)
-* [L.018](../label/L.0.md)
-* [L.020](../label/L.0.md)
+* [L.009](../label/L.009.md)
+* [L.012](../label/L.012.md)
+* [L.014](../label/L.014.md)
+* [L.015](../label/L.015.md)
+* [L.016](../label/L.016.md)
+* [L.017](../label/L.017.md)
+* [L.018](../label/L.018.md)
+* [L.020](../label/L.020.md)
 
 ### Malzeme ve baskı
 
