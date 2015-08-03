@@ -34,3 +34,5 @@
 * [L.032](L.032.md) Güç anahtarı etiketi
 * [L.033](L.033.md) WE60 su girişleri etiketi
 * [L.034](L.034.md) WE-XL yumuşak su girişi etiketi
+* [L.035](L.035.md) TD-G yangın sensörü voltaj uyarı etiketi
+* [L.036](L.036.md) TD-G sprinkler su girişi
