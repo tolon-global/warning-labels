@@ -36,3 +36,7 @@
 * [L.034](L.034.md) WE-XL yumuşak su girişi etiketi
 * [L.035](L.035.md) TD-G yangın sensörü voltaj uyarı etiketi
 * [L.036](L.036.md) TD-G sprinkler su girişi
+* [L.037](L.037.md) TD-S Buhar yoğuşma çıkışı
+* [L.038](L.038.md) Basınçlı hava girişi
+* [L.039](L.039.md) WE110 su girişleri etiketi
+* [L.040](L.040.md) WE110 buhar giriş etiketi
