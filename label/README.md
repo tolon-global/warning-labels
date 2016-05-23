@@ -10,7 +10,7 @@
 * [L.008](L.008.md) WE-M taşıma emniyet parçaları için [Pm.003](../pict/Pm.003.svg)
 * [L.009](L.009.md) WE-XL ve TD genel uyarı etiketi
 * [L.010](L.010.md) WE-XL sızıntı uyarısı
-* ~~L.011~~
+* [L.011](L.011.md) WE-M yumuşak su girişi
 * [L.012](L.012.md) Uyarı ışığı açıklamaları
 * [L.013](L.013.md) WE-XL taşıma emniyet parçaları için [Pm.003](../pict/Pm.003.svg)
 * [L.014](L.014.md) TD yükleme kapağı sıcak yüzey uyarısı
