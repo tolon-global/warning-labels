@@ -40,3 +40,4 @@
 * [L.038](L.038.md) Basınçlı hava girişi
 * [L.039](L.039.md) WE110 su girişleri etiketi
 * [L.040](L.040.md) WE110 buhar giriş etiketi
+* [L.041](L.041.md) TD20-G doğalgaz etiketi (20-200mbar) ([L.025](L.025.md))
