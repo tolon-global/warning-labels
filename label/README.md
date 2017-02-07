@@ -42,3 +42,8 @@
 * [L.040](L.040.md) WE110 buhar giriş etiketi
 * [L.041](L.041.md) TD20-G doğalgaz etiketi (20-200mbar) ([L.025](L.025.md))
 * [L.042](L.042.md) TD filtre kapağını açmayın uyarısı
+* [L.043](L.043.md) FI genel uyarı etiketi
+* [L.044](L.044.md) Yağlama noktası etiketi
+* [L.045](L.045.md) FI Sıcak yüzey uyarısı
+* [L.046](L.046.md) FI kurulum uyarıları
+* [L.047](L.047.md) Makine içine uzanmayın uyarısı
