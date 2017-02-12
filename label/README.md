@@ -46,4 +46,8 @@
 * [L.044](L.044.md) Yağlama noktası etiketi
 * [L.045](L.045.md) FI Sıcak yüzey uyarısı
 * [L.046](L.046.md) FI kurulum uyarıları
-* [L.047](L.047.md) Makine içine uzanmayın uyarısı
+* [L.047](L.047.md) makine içine uzanmayın uyarısı
+* [L.048](L.048.md) TF genel uyarı etiketi
+* [L.049](L.049.md) TF konveyör başlatma
+* [L.050](L.050.md) TF ıskarta
+* [L.051](L.051.md) TF pnömatik şema
