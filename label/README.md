@@ -51,3 +51,4 @@
 * [L.049](L.049.md) TF konveyör başlatma
 * [L.050](L.050.md) TF ıskarta
 * [L.051](L.051.md) TF pnömatik şema
+* [L.052](L.052.md) WE.S Taşıma emniyeti sökme uyarısı
