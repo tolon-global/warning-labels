@@ -52,3 +52,5 @@
 * [L.050](L.050.md) TF ıskarta
 * [L.051](L.051.md) TF pnömatik şema
 * [L.052](L.052.md) WE.S Taşıma emniyeti sökme uyarısı
+* [L.053](L.053.md) Makine aniden başlayabilir uyarısı
+* [L.054](L.054.md) IR sensör etiketi
