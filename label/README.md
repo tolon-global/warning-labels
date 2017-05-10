@@ -19,7 +19,7 @@
 * [L.017](L.017.md) TD filtre temizlik uyarısı
 * [L.018](L.018.md) Kullanım yönergesi
 * [L.019](L.019.md) TD vakum klapesi uyarısı
-* [L.020](L.020.md) TD alarm ve hata kodları
+* [L.020](L.020.md) TD/4 alarm ve hata kodları
 * [L.021](L.021.md) Motor dönüş yönü
 * [L.022](L.022.md) Toprak bağlantısı uyarısı
 * [L.023](L.023.md) TD-G yanıcı gaz uyarısı
@@ -54,3 +54,4 @@
 * [L.052](L.052.md) WE.S Taşıma emniyeti sökme uyarısı
 * [L.053](L.053.md) Makine aniden başlayabilir uyarısı
 * [L.054](L.054.md) IR sensör etiketi
+* [L.055](L.055.md) TD20 için [L.012](L.012.md) ve [L.020](L.020.md) birleşmiş hali
