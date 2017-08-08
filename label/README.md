@@ -56,3 +56,4 @@
 * [L.054](L.054.md) IR sensör etiketi
 * [L.055](L.055.md) TD20 için [L.012](L.012.md) ve [L.020](L.020.md) birleşmiş hali
 * [L.056](L.056.md) WE numune musluğu uyarısı
+* [L.057](L.057.md) TD UL Hava çıkışı uyarısı
