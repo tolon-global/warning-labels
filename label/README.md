@@ -58,3 +58,4 @@
 * [L.056](L.056.md) WE numune musluğu uyarısı
 * [L.057](L.057.md) TD UL Hava çıkışı uyarısı
 * [L.058](L.058.md) UL Bakır iletken uyarısı
+* [L.059](L.059.md) TD Servis arayüzü ipuçları
