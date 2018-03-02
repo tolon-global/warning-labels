@@ -24,7 +24,7 @@
 * [L.022](L.022.md) Toprak bağlantısı uyarısı
 * [L.023](L.023.md) TD-G yanıcı gaz uyarısı
 * [L.024](L.024.md) TD-G LPG etiketi
-* [L.025](L.025.md) TD-G doğalgaz etiketi
+* [L.025](L.025.md) TD20-G doğalgaz etiketi (200mbar)
 * [L.026](L.026.md) WE110 hareket halinde tambur uyarısı
 * [L.027](L.027.md) WE-M soğuk su girişi etiketi
 * [L.028](L.028.md) WE-M sıcak su girişi etiketi
@@ -59,3 +59,4 @@
 * [L.057](L.057.md) TD UL Hava çıkışı uyarısı
 * [L.058](L.058.md) UL Bakır iletken uyarısı
 * [L.059](L.059.md) TD Servis arayüzü ipuçları
+* [L.060](L.060.md) TD-G doğalgaz etiketi (300mbar)
